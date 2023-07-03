@@ -1,4 +1,4 @@
-# Kaggle-M5-Forecasting-Accuracy-
+# Kaggle-M5-Forecasting-Accuracy
 The M5 Forecasting Accuracy competition is a Kaggle competition that challenges participants to forecast sales for Walmart stores. The competition is based on the M5 dataset, which includes historical sales data for thousands of products across several Walmart stores in three US states: California (CA), Texas (TX), and Wisconsin (WI).
 
 The goal of the competition is to develop accurate forecasting models that can predict future sales at the item level. Participants are provided with detailed data, including daily historical sales, product information, price, promotion, and calendar information.
