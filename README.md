@@ -6,5 +6,6 @@ The goal of the competition is to develop accurate forecasting models that can p
 The competition evaluates the accuracy of participants' forecasts using the Weighted Root Mean Squared Scaled Error (WRMSSE) metric. This metric takes into account the hierarchical structure of the data, as the forecasts need to be accurate at multiple levels, such as at the store, department, and item levels.
 
 # How to run
+Exploratory data analysis (EDA) file: https://www.kaggle.com/code/thien1504/m5-forecasting-eda
 You need to download code and use Google Colab (https://colab.research.google.com) or Kaggle (kaggle.com) to run file .ipynb. <br>
 Or you can visit my kaggle to see it. https://www.kaggle.com/thien1504
